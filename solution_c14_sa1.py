@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-# -*- coding: utf-8 -*-
 import pygame,random,neat
 pygame.init()
 screen=pygame.display.set_mode((400,600))
